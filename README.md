@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Information Systems Graduate at Northeastern University with strong foundations in both frontend and backend technologies.<br>I love solving difficult problems by creating simplified solutions.<br>I also love creating user friendly and  interactive web applications. <br>I am currently looking for full time opportunities in Full Stack Development (Both frontend and backend roles) and Software Engineering.<br><br><br><br><br>
+I am a Information Systems Graduate at Northeastern University with strong foundations in both frontend and backend technologies.<br>I love solving difficult problems by creating simplified solutions.<br>I also love creating user friendly and  interactive web applications. <br>I am currently looking for full time opportunities in Full Stack Development (including both frontend and backend roles) and Software Engineering.<br><br><br><br><br>
 
 
 ## 🌐 Socials:
