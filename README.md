@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Developer.<br>I love solving difficult problems by creating simplified solutions. <br>I am currently looking for full time SDE roles.<br><br><br><br><br>
+I am a Software Developer with over 3 years of experience.<br>I love solving difficult problems by creating simplified solutions. <br>Currently looking for full time SDE roles.<br><br><br><br><br>
 
 
 ## 🌐 Socials:
